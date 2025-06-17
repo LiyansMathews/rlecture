@@ -22,7 +22,7 @@ execute:
 
 The **UC Berkely Admissions** dataset is a R built-in dataset that summarizes the admission figures at the University of California, Berkeley, for six departments. It includes *admission status*, *gender*, *department* and  *frequencies of each combination.*
 
-This dataset was originally analyzed in a 1975 article, which explored allegations of gender bias in graduate school admissions. At first glance, the overall admission rates appeared to favor male applicants. However, a closer examination by department revealed a more complex outcome a phenomenon known as Simpson’s Paradox, where trends in aggregated data disappear when examined in subgroups.
+This dataset was originally analyzed in a 1975 article, which explored allegations of gender bias in graduate school admissions. At first glance, the overall admission rates appeared to favor male applicants. However, a closer examination by department revealed a more complex outcome a phenomenon known as Simpson’s Paradox, where trends in aggregated data disappear when examined in subgroups.This paradox can be clearly understood through the below analysis.
 
 A brief discussion of gender-wise admission distribution across departments has been done below.
 
